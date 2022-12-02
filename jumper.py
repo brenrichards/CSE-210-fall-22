@@ -4,7 +4,7 @@ I do not believe it was necessary for me to use 4+ classes. I think lists within
 useful. Sometimes I feel like I can accomplish things easier with lists than classes. If this isnt
 OK, please email me.
 """
-
+# This comment is to show how to create edits and update them Dec 2.
 import math
 import random
 import numpy as np
